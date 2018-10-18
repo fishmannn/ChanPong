@@ -6,4 +6,5 @@ function () {
   console.log(y)
   var kk = 20;
   console.log(kk)
+  str= '分支哈哈哈哈'
 }
