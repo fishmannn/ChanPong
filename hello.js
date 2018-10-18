@@ -10,3 +10,7 @@ function () {
   var k =111111
   我是猪分支 ~~~~~~~  我是分支
 }
+
+funciton () {
+  console.log ('你好')
+}
